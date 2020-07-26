@@ -1,4 +1,4 @@
 package com.comunicator.kkomunicatorfrontend.client;
 
-public class BackendClient {
+public class BackEndClient {
 }
